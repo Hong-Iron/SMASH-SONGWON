@@ -1,0 +1,97 @@
+{
+  "code": "SONGWON",
+  "title": "SMASH SONGWON",
+  "school": "송원대",
+  "fullName": "송원대학교",
+  "campusName": "송원대학교",
+  "tagline": "송원대를 부셔 (시험기간 스트레스 해소)",
+  "description": "송원대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 송원대학교 3D 화면과 SMASH SONGWON 제목",
+  "url": "https://hong-iron.github.io/SMASH-SONGWON/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 537754467
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.1088671,
+        126.8743917
+      ],
+      "n": "강의동A",
+      "why": "같은 건물 겹침 — 3번 A동의 건축물대장 기록이 옆 숲 위에 작게 잘못 찍힌 것이고, 그 자리에는 건물이 없다."
+    },
+    {
+      "at": [
+        35.1092157,
+        126.874584
+      ],
+      "n": "본부동",
+      "why": "같은 건물 겹침 — 본부동의 건축물대장 기록이 길가 숲에 잘못 찍힌 것이고, 그 자리는 비어 있으며 실제 건물은 이미 지도에 있다."
+    },
+    {
+      "at": [
+        35.1090852,
+        126.8746025
+      ],
+      "n": "학생회관",
+      "why": "같은 건물 겹침 — 2번 학생회관의 건축물대장 기록이 숲 위에 잘못 찍힌 것이고, 그 자리에는 건물이 없다."
+    },
+    {
+      "at": [
+        35.1094537,
+        126.8749085
+      ],
+      "n": "동문수위실",
+      "why": "항공사진에 없음 — 동문수위실의 건축물대장 기록이 2번 옆 찻길 위에 찍혀 있지만, 사진에서 그 자리에는 건물이 없다."
+    }
+  ],
+  "look": {
+    "대학본부": {
+      "style": "ribbon",
+      "wall": "#dde6e9",
+      "glass": "#427877",
+      "frame": "#7b96a5"
+    },
+    "강의동 A": {
+      "style": "ribbon",
+      "wall": "#d6dde2",
+      "glass": "#628b9f",
+      "frame": "#9aa5ad"
+    },
+    "강의동 B,C,D": {
+      "style": "ribbon",
+      "wall": "#f1f1f5",
+      "glass": "#6d685f",
+      "frame": "#c9ccd0"
+    },
+    "학생회관": {
+      "style": "stone",
+      "wall": "#c8c3d9",
+      "glass": "#5b5d64",
+      "frame": "#a7a4b4"
+    },
+    "송원학사": {
+      "style": "dorm",
+      "wall": "#f3e9c8",
+      "glass": "#67798b",
+      "frame": "#c7cfc5"
+    },
+    "청솔관": {
+      "style": "tan",
+      "wall": "#f4ebcc",
+      "glass": "#7a8899",
+      "frame": "#c7cfc5"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
